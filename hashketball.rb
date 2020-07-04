@@ -11,7 +11,9 @@ def game_hash
         :points =>
         :rebounds =>
         :assists =>
-        :steals =>]
+        :steals =>
+        :blocks =>
+        :slam_dunks =>]
     }
     :away => {}
   }
